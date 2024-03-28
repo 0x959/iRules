@@ -3,27 +3,27 @@ payload:
   - DOMAIN-SUFFIX,cloud.cupronickel.goog
   - DOMAIN-SUFFIX,googleapis.com
   # - DOMAIN-SUFFIX,subscriptionsmobile-pa.googleapis.com
-  - DOMAIN-SUFFIX,photos.googleapis.com
-  - DOMAIN-SUFFIX,connectivitycheck.gstatic.com
-  - DOMAIN-SUFFIX,cloud.cupronickel.goog
-  - DOMAIN-SUFFIX,scone-pa.googleapis.com
-  - DOMAIN-SUFFIX,quake-pa.googleapis.com
-  - DOMAIN-SUFFIX,phosphor-pa.googleapis.com
-  - DOMAIN-SUFFIX,scriptionsmanagement-pa.googleapis.com
-  - DOMAIN-SUFFIX,scriptionsmobile-pa.googleapis.com
-  - DOMAIN-SUFFIX,federatedml-pa.googleapis.com
-  - DOMAIN-SUFFIX,na.b.g-tun.com
-  - DOMAIN-SUFFIX,userlocation.googleapis.com
-  - DOMAIN-SUFFIX,encrypted-tbn2.gstatic.com
-  - DOMAIN-SUFFIX,encrypted-tbn1.gstatic.com
-  - DOMAIN-SUFFIX,android.apis.google.com
-  - DOMAIN-SUFFIX,android.clients.google.com
-  - DOMAIN-SUFFIX,accounts.google.com
-  - DOMAIN-SUFFIX,ssl.google-analytics.com
-  - DOMAIN-SUFFIX,mail.google.com
-  - DOMAIN-KEYWORD,scriptions
-  - DOMAIN-KEYWORD,googleapis
-  - DOMAIN-SUFFIX,lh3.googleusercontent.com
-  - DOMAIN-SUFFIX,clientservices.googleapis
-  - DOMAIN-SUFFIX,firebaseremoteconfig.googleapis.com
-  - DOMAIN-SUFFIX,prod.zinc.cloud.cupronickel.goog
+  # - DOMAIN-SUFFIX,photos.googleapis.com
+  # - DOMAIN-SUFFIX,connectivitycheck.gstatic.com
+  # - DOMAIN-SUFFIX,cloud.cupronickel.goog
+  # - DOMAIN-SUFFIX,scone-pa.googleapis.com
+  # - DOMAIN-SUFFIX,quake-pa.googleapis.com
+  # - DOMAIN-SUFFIX,phosphor-pa.googleapis.com
+  # - DOMAIN-SUFFIX,scriptionsmanagement-pa.googleapis.com
+  # - DOMAIN-SUFFIX,scriptionsmobile-pa.googleapis.com
+  # - DOMAIN-SUFFIX,federatedml-pa.googleapis.com
+  # - DOMAIN-SUFFIX,na.b.g-tun.com
+  # - DOMAIN-SUFFIX,userlocation.googleapis.com
+  # - DOMAIN-SUFFIX,encrypted-tbn2.gstatic.com
+  # - DOMAIN-SUFFIX,encrypted-tbn1.gstatic.com
+  # - DOMAIN-SUFFIX,android.apis.google.com
+  # - DOMAIN-SUFFIX,android.clients.google.com
+  # - DOMAIN-SUFFIX,accounts.google.com
+  # - DOMAIN-SUFFIX,ssl.google-analytics.com
+  # - DOMAIN-SUFFIX,mail.google.com
+  # - DOMAIN-KEYWORD,scriptions
+  # - DOMAIN-KEYWORD,googleapis
+  # - DOMAIN-SUFFIX,lh3.googleusercontent.com
+  # - DOMAIN-SUFFIX,clientservices.googleapis
+  # - DOMAIN-SUFFIX,firebaseremoteconfig.googleapis.com
+  # - DOMAIN-SUFFIX,prod.zinc.cloud.cupronickel.goog
